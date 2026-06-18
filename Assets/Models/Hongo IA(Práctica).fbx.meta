@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ef735c8900e7f7c44bae26f13d105c94
+guid: 894fa2af3a54fd74a8f6f7c8c71e9f78
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Low_Poly_Material
-    second: {fileID: 2100000, guid: df4b7b06f1252c142aa386089ef24ab6, type: 2}
+    second: {fileID: 2100000, guid: 7b40a47f75c758c44918acfb40c88b8d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

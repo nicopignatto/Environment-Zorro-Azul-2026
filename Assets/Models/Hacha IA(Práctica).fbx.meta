@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: aa59082d6c97fd94cbe7d06379764150
+guid: 6f3df7b84e0e12744af8832db9514441
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: New_Retopology_2_Material
-    second: {fileID: 2100000, guid: 47d3e4a9414482949a5066ccf2c1adcd, type: 2}
+      name: Low_Poly_Material
+    second: {fileID: 2100000, guid: ea7a582af53c74f459d97adcfec98ea7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
