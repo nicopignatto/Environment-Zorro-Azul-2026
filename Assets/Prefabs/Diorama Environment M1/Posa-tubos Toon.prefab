@@ -1,0 +1,544 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1680352523370731292
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.42100593
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.378068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      propertyPath: m_Name
+      value: Posa-tubos Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4064476584363309678}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2367970863304301795}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7899629173910353858}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6829694836017828488}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8015852323232603526}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1214996856211015622}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4cdce2c124186b448ae73abf9f10cde0, type: 3}
+--- !u!4 &1214695138392862967 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4cdce2c124186b448ae73abf9f10cde0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1680352523370731292}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1681584602823647277
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1214695138392862967}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.20800593
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.004132308
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11200005
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+        type: 3}
+      propertyPath: m_Name
+      value: Tubo 6 Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ff3f04a89a96764aa9b316dfbf1f01f, type: 3}
+--- !u!4 &1214996856211015622 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1ff3f04a89a96764aa9b316dfbf1f01f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1681584602823647277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2834454704455891720
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1214695138392862967}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.15699407
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00006765127
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.14600003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+        type: 3}
+      propertyPath: m_Name
+      value: Tubo 2 Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 831c5cf0b377ba94d8148e0b3dc097b0, type: 3}
+--- !u!4 &2367970863304301795 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 831c5cf0b377ba94d8148e0b3dc097b0,
+    type: 3}
+  m_PrefabInstance: {fileID: 2834454704455891720}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4606428799115156869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1214695138392862967}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.22999409
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0009317845
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.14100003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fa76dafd77535064e945bf922279348f,
+        type: 3}
+      propertyPath: m_Name
+      value: Tubo 1 Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa76dafd77535064e945bf922279348f, type: 3}
+--- !u!4 &4064476584363309678 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: fa76dafd77535064e945bf922279348f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4606428799115156869}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6434881055006979427
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1214695138392862967}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.06800595
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0019321889
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.14400005
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2097e6aad801c904f833db4513bdcf22,
+        type: 3}
+      propertyPath: m_Name
+      value: Tubo 4 Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2097e6aad801c904f833db4513bdcf22, type: 3}
+--- !u!4 &6829694836017828488 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2097e6aad801c904f833db4513bdcf22,
+    type: 3}
+  m_PrefabInstance: {fileID: 6434881055006979427}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7544864503557110381
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1214695138392862967}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.13700593
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0035324693
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.14600003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 48e42fc61d9000746b8569e8e3314a52,
+        type: 3}
+      propertyPath: m_Name
+      value: Tubo 5 Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 48e42fc61d9000746b8569e8e3314a52, type: 3}
+--- !u!4 &8015852323232603526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 48e42fc61d9000746b8569e8e3314a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 7544864503557110381}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7650392681792688169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1214695138392862967}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08499405
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.002931632
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.10400003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: feeb525e802da12458d774060eba30e3,
+        type: 3}
+      propertyPath: m_Name
+      value: Tubo 3 Toon
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: feeb525e802da12458d774060eba30e3, type: 3}
+--- !u!4 &7899629173910353858 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: feeb525e802da12458d774060eba30e3,
+    type: 3}
+  m_PrefabInstance: {fileID: 7650392681792688169}
+  m_PrefabAsset: {fileID: 0}
